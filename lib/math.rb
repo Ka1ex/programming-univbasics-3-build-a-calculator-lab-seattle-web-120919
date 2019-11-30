@@ -21,7 +21,7 @@ times_sum
 end
 
 def modulo(num1, num2)
-modulo_sum = num1 % num5
+modulo_sum = num1 % num2
 modulo_sum
 end
 
