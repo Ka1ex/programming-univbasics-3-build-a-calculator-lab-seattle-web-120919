@@ -26,6 +26,6 @@ modulo_sum
 end
 
 def square_root(num)
-square_root_num = num.Math.sqrt
+square_root_num = Math.sqrt(num)
 square_root_num
 end
