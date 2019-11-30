@@ -26,5 +26,6 @@ puts modulo_sum
 end
 
 def square_root(num)
-
+square_root_num = num / num
+puts square_root_num
 end
